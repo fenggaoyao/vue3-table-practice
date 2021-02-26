@@ -1,0 +1,24 @@
+{
+  "name": "axe-table",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "element-plus": "^1.0.2-beta.32",
+    "highlight.js": "^10.6.0",
+    "sass": "^1.32.8",
+    "typescript": "^4.1.3",
+    "vite": "^2.0.1",
+    "vue-router": "^4.0.4",
+    "vuex": "^4.0.0",
+    "xe-utils": "^3.1.8"
+  }
+}
